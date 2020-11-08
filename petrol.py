@@ -25,4 +25,7 @@ exits = input("press 0 to exit")[0]
 if exits == 0:
     exit()
 
+def checkMate():
+    return "I love programming so much"
+
 
